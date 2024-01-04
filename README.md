@@ -1,0 +1,1 @@
+C is a general-purpose programming language. It can be used to develop software like operating systems. This projects covers the concepts of binary trees! This was a project done with the contribution of my peer mariam mmamdouh
