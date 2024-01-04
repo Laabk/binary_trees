@@ -36,7 +36,7 @@ void free_node(link_t *head)
 }
 
 /**
- * _push - fills the stack memory with a temp node
+ * put_in_stack - fills the stack memory with a temp node
  * @node: pointer of node of the tree
  * @head: head node of in the stack
  * @tail: tail node of in the stack
