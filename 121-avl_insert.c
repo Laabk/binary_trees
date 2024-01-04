@@ -26,6 +26,7 @@ avl_t *root_insert_node(avl_t **tree, avl_t *parent, avl_t **new, int nval)
 		if ((*tree)->right == NULL)
 			return (NULL);
 	}
+	else
 	{
 		return (*tree);
 	}
