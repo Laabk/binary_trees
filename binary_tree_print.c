@@ -52,7 +52,7 @@ static int print_t(const binary_tree_t *tree, int offset, int depth, char **s)
 
 static size_t _height(const binary_tree_t *tree)
 {
-	size_t height_le;height_ri;
+	size_t height_le, height_ri;
 
 	height_le = tree->left ? 1 + _height(tree->left) : 0;
 	height_ri = tree->right ? 1 + _height(tree->right) : 0;
